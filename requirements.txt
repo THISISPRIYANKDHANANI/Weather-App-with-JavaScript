@@ -1,0 +1,17 @@
+# Weather App Dependencies
+# Created: December 2024
+# Simple weather app with web interface
+
+# Core dependencies
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Web framework
+flask>=2.3.0
+werkzeug>=2.3.0
+
+# Location services
+geocoder>=1.38.1
+
+# Additional utilities
+python-dateutil>=2.8.2

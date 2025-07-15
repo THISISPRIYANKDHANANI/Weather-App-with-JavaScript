@@ -159,6 +159,6 @@ This project is perfect for:
 
 ---
 
-**Happy coding! 🌤️**
-
-*Made with ❤️ for learning and fun!*
+# output
+![img](https://github.com/user-attachments/assets/5681782b-c260-45c6-8f27-3783721e6910)
+![img](https://github.com/user-attachments/assets/fd3dfded-e80b-47d2-b07a-ccdb1e1fbea8)

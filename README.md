@@ -1,5 +1,15 @@
 # Weather App 🌤️
 
+COMPANY: Oasis Infobyte
+
+NAME: Priyank Dhanani
+
+"INTERN ID: OIB/J1/IP3779
+
+*DOMAIN: PYTHON PROGRAMMING
+
+*DURATION: 4 WEEEKS
+
 A simple and beautiful weather application for beginners to learn Python web development.
 
 ## 🚀 Features

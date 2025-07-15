@@ -160,6 +160,7 @@ This project is perfect for:
 ---
 
 # output
+![img](https://github.com/user-attachments/assets/e8e1b50a-6f0f-4431-aff1-0fa215bc152e)
 ![img](https://github.com/user-attachments/assets/fd3dfded-e80b-47d2-b07a-ccdb1e1fbea8)
 ![img](https://github.com/user-attachments/assets/5681782b-c260-45c6-8f27-3783721e6910)
 
